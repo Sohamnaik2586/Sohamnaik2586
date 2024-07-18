@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋HI, my name isame is Soham Naik</h1>
+<h1 align="center">Hi 👋HI, my name is Soham Naik</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamnaik2586&label=Profile%20views&color=0e75b6&style=flat" alt="sohamnaik2586" /> </p>
