@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sohamnaik2586?tab=repositories](https://github.com/Sohamnaik2586?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repository](https://github.com/Sohamnaik2586?tab=repositories)
 
 - 💬 Ask me about **Java,Python,Linux,and frontend Development**
 
 - 📫 How to reach me **sohamnaik2586@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19F5zCUF0KdUMDLxqVN5Gtdc9udYSZJ57/view?usp=drive_link](https://drive.google.com/file/d/19F5zCUF0KdUMDLxqVN5Gtdc9udYSZJ57/view?usp=drive_link)
+- 📄 Know about my experiences [My Certifications and Resume](https://drive.google.com/drive/folders/12c_F1iIrf2HDRRSek5VP4cSOR4-Ejqdh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
