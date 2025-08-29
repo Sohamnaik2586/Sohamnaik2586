@@ -15,8 +15,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://g.dev/soham_d_naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/soham_d_naik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sohamnaik2586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sohamnaik2586" height="30" width="40" /></a>
+  <!-- Google Developer Profile -->
+  <a href="https://developers.google.com/profile/u/Soham_D_Naik" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Google Developer Profile" height="30" width="40" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/sohamnaik2586/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/sohamnaik2586" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
