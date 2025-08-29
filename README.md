@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Java,Python,Linux,and frontend Development**
 
-- 📫 How to reach me **sohamnaik2586@gmail.com**
+- 📫 reach me at **sohamnaik2586@gmail.com**
 
-- 📄 Know about my experiences [My Certifications and Resume](https://drive.google.com/drive/folders/12c_F1iIrf2HDRRSek5VP4cSOR4-Ejqdh)
+- 📄 Know about [My Certifications and Resume](https://drive.google.com/drive/folders/12c_F1iIrf2HDRRSek5VP4cSOR4-Ejqdh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
