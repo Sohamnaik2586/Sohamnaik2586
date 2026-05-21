@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github Repository](https://github.com/Sohamnaik2586?tab=repositories)
 
-- 💬 Ask me about **Java,Python,Linux,and frontend Development**
+- 💬 Ask me about **Dotnet,C#,Python,Linux,and frontend Development**
 
 - 📫 reach me at **sohamnaik2586@gmail.com**
 
