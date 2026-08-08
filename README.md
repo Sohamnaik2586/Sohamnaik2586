@@ -13,6 +13,7 @@ Building scalable web applications with <strong>.NET</strong>, <strong>React</st
     <img src="https://komarev.com/ghpvc/?username=Sohamnaik2586&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
+
 ## 👨‍💻 About Me
 
 I'm a Software Engineer with hands-on experience building full-stack web applications using Microsoft's technology stack.
@@ -134,6 +135,7 @@ ASP.NET • SQL Server
 </a>
 
 </p>
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sohamnaik2003)
